@@ -12,15 +12,14 @@
 
 <p><img alt="Image" title="icon" src="Serverless_WebApplication.png" /></p>
 
-<p>Static Web Hosting
+<strong>Static Web Hosting</strong>
+<p>AWS Amplify hosts static web resources including HTML, CSS, JavaScript, and image files which are loaded in the user's browser.</p>
 
-AWS Amplify hosts static web resources including HTML, CSS, JavaScript, and image files which are loaded in the user's browser.</p>
-<p>User Management
+<strong>User Management</strong>
+<p>Amazon Cognito provides user management and authentication functions to secure the backend API.</p>
 
-Amazon Cognito provides user management and authentication functions to secure the backend API.</p>
-<p>Serverless Backend
+<strong>Serverless Backend</strong>
+<p>Amazon DynamoDB provides a persistence layer where data can be stored by the API's Lambda function.</p>
 
-Amazon DynamoDB provides a persistence layer where data can be stored by the API's Lambda function.</p>
-<p>RESTful API
-
-JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway.</p>
+<strong>RESTful API</strong>
+<p>JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway.</p>
