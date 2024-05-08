@@ -33,6 +33,7 @@
 <h2>Modify the site</h2>
 
 <p>The following code block is an example in the terminal window:</p>
+
 <code>$ git add index.html 
 $ git commit -m "updated title"
 [master dfec2e5] updated title
