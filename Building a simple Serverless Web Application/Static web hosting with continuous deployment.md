@@ -46,10 +46,6 @@ Writing objects: 100% (3/3), 315 bytes | 315.00 KiB/s, done.
 Total 3 (delta 2), reused 0 (delta 0)
 remote: processing 
 To https://git-codecommit.us-east-1.amazonaws.com/v1/repos/wildrydes-site
-   2e9f540..dfec2e5  master -> master</code>. </p>
+   2e9f540..dfec2e5  master -> master</code>.
 
-<h2></h2>
 
-<p></p>
-
-<p></p>
