@@ -8,7 +8,7 @@
     There is no need to run any servers as AWS Amplify works together with Lambda and API Gateway as a whole serverless architect, providing a scalable, reliable, low latency and cost-effective solution for hosting a web application.
 </p>
 
-<p>img alt="Image" title="AWS Amplify Console Architecture" src="Building a simple Serverless Web Application/Amplify_Wild_Rydes.1760839c5336d01cd6ac6eabb5d2ad8a37c3304a.png"</p>
+<p>img alt="Image" title="AWS Amplify Console Architecture" src="Building a simple Serverless Web Application/Amplify_Wild_Rydes.1760839c5336d01cd6ac6eabb5d2ad8a37c3304a.png" /></p>
 
 <h1>Let's start with:</h1>
 
