@@ -8,4 +8,4 @@
 
 <p>In my Github repository, I will demonstrate some small interesting personal projects using AWS services to excel my experiences.</p>
 
-<p>This personal project took about two hour to complete and all the aws resources I have used in this project are eligible for aws free-tier. Kindly check your aws Free-tier situation to ensure whether your aws account exceed the AWS Free Tier threshold.</p>
+

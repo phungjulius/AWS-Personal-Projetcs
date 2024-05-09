@@ -23,3 +23,5 @@
 
 <strong>4. RESTful API</strong>
 <p>JavaScript executed in the browser sends and receives data from a public backend API built using Lambda and API Gateway.</p>
+
+<p>This personal project took about two hour to complete and all the aws resources I have used in this project are eligible for aws free-tier. Kindly check your aws Free-tier situation to ensure whether your aws account exceed the AWS Free Tier threshold.</p>
