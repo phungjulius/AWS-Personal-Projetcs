@@ -7,3 +7,5 @@
 <p>AWS provides many services in cloud computing to address clients’ different matters. A solutions architect based on clients’ requirements and demands to design a flexible, reliable, scalable, and cost-effective solution that included the combination of infrastructure as a service, platform as a service, and software as a service.</p>
 
 <p>In my Github repository, I will demonstrate some small interesting personal projects using AWS services to excel my experiences.</p>
+
+<p>This personal project took about two hour to complete and all the aws resources I have used in this project are eligible for aws free-tier. Kindly check your aws Free-tier situation to ensure whether your aws account exceed the AWS Free Tier threshold.</p>
