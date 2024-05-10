@@ -1,10 +1,10 @@
 <h1>Project overview</h1>
-<p>In this small project, I practise using AWS PartRock to develop a "Daily Task Scheduler Application" aimed at enhancing our productivity and organization work. AWS PartyRock is a new service offered by AWS, aiming to simplify the app development throught the assistant of generative AI. I have had a lot of fun playingaround with this PartyRock. And here is one of those very small projects that I have developed using PartyRock</p>
+<p>In this small project, I practise using AWS PartRock to develop few simply and fun applications, aimed at enhancing our productivity and organization in our livehood. AWS PartyRock is a new service offered by AWS, aiming to simplify the app development throught the assistant of generative AI. I have had a lot of fun playingaround with this PartyRock. And here is one of those very small projects that I have developed using PartyRock</p>
 
 <h1>Performance steps</h1>
 <p>In this project, I have gone through the following steps:</p>
 <ol>
-    <li>Generating the daily task scheduler application</li>
+    <li>Generating the application using one of the options offered by PartyRock</li>
     <li>Changes in exiting widgets</li>
     <li>Adding new widgets</li>
     <li>Publishing the application</li>
