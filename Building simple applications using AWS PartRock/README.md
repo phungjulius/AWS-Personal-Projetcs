@@ -25,5 +25,9 @@
 
 <ul> <a href="https://partyrock.aws/u/juliusphung/SW3NsNuke/Movie-Guide">Movie Guide</a>: I made some modifications from the existing application to create my own movie recommendation application</ul>
 
+<p><img alt="Image" title="Image of Movie Guide App" src="Movie Guide.png" /></p>
+
 <ul> <a href="https://partyrock.aws/u/juliusphung/Co32IvBjS/Culinary-Concierge">Culinary Concierge</a>: By giving a prompt "Build a simple application that takes ingredients, time, and cuisine inputs to suggest a cooking instruction and nutrition facts table", I have build my own application that simply suggest a cooking instruction from those ingredients inputs and prefered timing.</ul>
+
+<p><img alt="Image" title="Image of Culinary Concierge App" src="Culinary Concierge.png" /></p>
 
