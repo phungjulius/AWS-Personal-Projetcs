@@ -67,9 +67,16 @@ User (Browser)
 
 ```mermaid
 graph TD
-    A[Developer] -->|Push Code| B[GitHub Repository]
-    B -->|Trigger| C[GitHub Actions CI/CD]
-    C -->|Run Tests| C
-    C -->|Deploy via SSH| D[AWS EC2]
-    D -->|Run Flask App| E[Web Server]
-    E -->|HTTP Request| F[User Browser]
+    A[Developer] -->|git push| B[GitHub Repository]
+
+    B -->|Trigger Workflow| C[GitHub Actions]
+
+    C --> D[Install Dependencies]
+    D --> E[Run Tests]
+
+    E -->|If successful| F[Deploy via SSH]
+
+    F --> G[AWS EC2 Instance]
+    G --> H[Flask Application Running]
+
+    H -->|HTTP Request| I[User Browser]
