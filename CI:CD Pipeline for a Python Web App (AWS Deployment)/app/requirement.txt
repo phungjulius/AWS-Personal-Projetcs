@@ -1,0 +1,11 @@
+flask
+
+# AWS setup
+
+Launch EC2 (Amazon Linux)
+Open port 5000 in Security Group
+Install:
+
+sudo yum update -y
+sudo yum install python3 git -y
+pip3 install flask
