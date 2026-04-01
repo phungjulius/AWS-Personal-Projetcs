@@ -33,6 +33,25 @@ http://<EC2-PUBLIC-IP>:5000
 - `scripts/` → Deployment script
 - `.github/workflows/` → CI/CD pipeline
 
+## Architecture in Text version
+Developer
+   │
+   │ git push
+   ▼
+GitHub Repository
+   │
+   │ triggers
+   ▼
+GitHub Actions (CI/CD Pipeline)
+   │
+   │ SSH deploy
+   ▼
+AWS EC2 Instance
+   │
+   │ runs Flask app
+   ▼
+User (Browser)
+
 ## What I Learned
 - Setting up CI/CD pipelines using GitHub Actions
 - Automating deployment to cloud environments
@@ -43,3 +62,14 @@ http://<EC2-PUBLIC-IP>:5000
 - Use Docker for containerization
 - Add HTTPS and domain configuration
 - Use Infrastructure as Code (Terraform)
+
+## Architecture Diagram
+
+```mermaid
+graph TD
+    A[Developer] -->|Push Code| B[GitHub Repository]
+    B -->|Trigger| C[GitHub Actions CI/CD]
+    C -->|Run Tests| C
+    C -->|Deploy via SSH| D[AWS EC2]
+    D -->|Run Flask App| E[Web Server]
+    E -->|HTTP Request| F[User Browser]
